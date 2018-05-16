@@ -1,2 +1,2 @@
 # croque-monsieur
-Un délicieux sandwich
+Un délicieux sandwich à déguster.
